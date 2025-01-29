@@ -1,4 +1,4 @@
-#[ Learning Management System (LMS)](https://abhihaas9391.github.io/LMS/)
+# [Learning Management System (LMS)](https://abhihaas9391.github.io/LMS/)
 
 ## Overview
 This is a Learning Management System (LMS) built using PHP. The system provides a platform for students and teachers to interact through courses, video playlists, and profile management. It features separate login portals for administrators, teachers, and students.
